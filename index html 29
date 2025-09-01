@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css vareavail</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .nav {
+            background-color: aquamarine;
+        }
+    
+        }
+
+        .contener {
+            background-color: rgb(81, 255, 0);
+            border: 2px solid black;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        ul {
+            display: flex;
+
+        }
+
+        ul li {
+            list-style: none;
+            padding: 34px;
+            color: #651036;
+        }
+
+        ul li:first-child {
+            background-color: aliceblue;
+        }
+        
+
+        
+        
+            
+        }
+    
+    </style>
+</head>
+
+<body>
+    <div class="nav">
+        <ul>
+            <li>Home </li>
+            <li>about</li>
+            <li>contect</li>
+
+        </ul>
+    </div>
+    <div class="contener">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab distinctio consequuntur reiciendis porro nihil!
+        Nisi blanditiis eos veritatis corporis harum? Maiores eveniet ipsa possimus necessitatibus sit cupiditate,
+        repudiandae dignissimos recusandae.
+
+    </div>
+    <div class="image"> 
+        <img src=" pexels-jplenio-1118873.jpg" alt="" width="320px">
+    
+        </div>
+        <script src="js function"></script>
+
+</body>
+
+</html>
